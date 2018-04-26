@@ -19,7 +19,7 @@ package modulo;
 
 import javax.swing.JFrame;
 
-public class SjakkVindu extends JFrame {
+public class SjakkVindu extends JFram {
 	
 	public SjakkVindu() {
 		setTitle("Demo av modulo");
